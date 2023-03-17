@@ -9,6 +9,7 @@ import 'package:flutter_template_project/resources/app_strings.dart';
 
 import 'app/router.gr.dart';
 
+// develop
 Future initializeApp() async {
   WidgetsFlutterBinding.ensureInitialized();
   await setupLocator();
